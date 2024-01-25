@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dwayne-Mwangi
+- 👋 Hi, I’m Dwayne
 - 👀 I’m interested in Software Development and Cybersecurity.
 - 🌱 I’m currently learning MIT [ Full Stack Web Development ]
 - 💞️ I’m looking to collaborate on 
